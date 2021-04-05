@@ -25,7 +25,8 @@ Ask me anything <a href="https://github.com/portoduque/portoduque/issues/new"><b
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
    ![Pycharm](https://img.shields.io/badge/-Pycharm-333333?style=flat&logo=Pycharm&logoColor=007ACC)
-***
+
+## ⚙️ GitHub Analytics
 <p>
 <a href="https://github.com/portoduque">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=portoduque&show_icons=true&theme=radical" />
@@ -34,9 +35,9 @@ Ask me anything <a href="https://github.com/portoduque/portoduque/issues/new"><b
 </p>
 
 ***
-## Random dev joke for you! 
+## 😂 Random dev joke for you! 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-***
+
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/portoduque/"><img src="https://img.shields.io/badge/-portoduque-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
