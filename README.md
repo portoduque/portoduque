@@ -27,14 +27,12 @@ Ask me anything <a href="https://github.com/portoduque/portoduque/issues/new"><b
    ![Pycharm](https://img.shields.io/badge/-Pycharm-333333?style=flat&logo=Pycharm&logoColor=007ACC)
 
 ## ⚙️ GitHub Analytics
-<p>
-<a href="https://github.com/portoduque">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=portoduque&show_icons=true&theme=radical" />
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=portoduque&theme=radical&layout=compact&exclude_lang=java+r" />
-</a>
-</p>
+<h1>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=portoduque&theme=radical"/>
+ 
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=portoduque&layout=compact&theme=radical"/>
+ <h1/>
 
-***
 ## 😂 Random dev joke for you! 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
