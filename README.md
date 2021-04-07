@@ -1,7 +1,8 @@
 
 ## 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
 
-<img src="https://user-images.githubusercontent.com/37813839/113632275-3586cf00-9641-11eb-9203-aa73d3474158.gif" alt="Welcome!" width="300"/>
+![welcome github](https://user-images.githubusercontent.com/37813839/113863227-cd8ad280-977f-11eb-83e5-cb824821cf0e.gif)
+
 
 You have finally discovered my Github profile. 
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. 
