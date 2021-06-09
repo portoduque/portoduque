@@ -40,4 +40,6 @@ Ask me anything <a href="https://github.com/portoduque/portoduque/issues/new"><b
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/portoduque/"><img src="https://img.shields.io/badge/-portoduque-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+  
+![Snake animation](https://github.com/portoduque/portoduque/blob/output/github-contribution-grid-snake.svg)
 
